@@ -7,6 +7,7 @@
 - Astro
 - HTML / CSS
 - JavaScript
+- git / GitHub
 - VPS Deployment / CDN
 
 ### Contact Me
