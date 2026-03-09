@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**sanjeewadev/sanjeewadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*I'm Sanjeewa, a Software Engineering student specializing in React.js frontend architecture and actively learning C# (.NET) for full-stack integration. Passionate about building secure, real-world web applications, with hands-on experience in building website and deployment.*
 
-Here are some ideas to get you started:
+### My Technical Skills
+- React.js
+- Astro
+- HTML / CSS
+- JavaScript
+- VPS Deployment / CDN
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact Me
+- **Email:** [hello.sanjeewa@outlook.com](mailto:hello.sanjeewa@outlook.com)
+- **WhatsApp:** [+94 71 259 5994](https://wa.me/94712595994)
+- **LinkedIn:** [@sanjeewadev](https://linkedin.com/in/sanjeewadev)
+- **Instagram:** [@sanjeewadev](https://instagram.com/sanjeewadev)
+
+-- Thank You 😊 --
